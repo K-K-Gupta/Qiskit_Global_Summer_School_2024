@@ -31,5 +31,3 @@ In the final lab, we simulated the dynamics of a **Heisenberg spin chain** in a 
 
 ---
 
-## 📁 Repository Structure
-
